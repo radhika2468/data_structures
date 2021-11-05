@@ -1,2 +1,2 @@
 # data_structures
-This repositry contains the codes on data structures and some basic concepts.
+This repository contains the codes on data structures and some basic concepts.
